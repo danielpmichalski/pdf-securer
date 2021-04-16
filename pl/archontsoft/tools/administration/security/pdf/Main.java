@@ -1,4 +1,4 @@
-package pl.archontsoft.administration.security.pdf;
+package pl.archontsoft.tools.administration.security.pdf;
 
 import java.io.File;
 import java.io.IOException;
